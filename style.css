@@ -1,0 +1,16 @@
+html,
+body {
+}
+
+h1{
+  font-family: 'Shrikhand'
+}
+
+body{
+  background-image: linear-gradient(#3434C1, #FFA522);
+  color: #FFFFFF;
+}
+
+a{
+  color: #FFFFFF;
+}
